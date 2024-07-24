@@ -25,4 +25,4 @@
 - This project investigates the impact of the Covid-19 pandemic on female financial analysts' forecast behaviors compared to males.
 - It also examines whether female-issued forecasts influence investor decisions regarding earnings announcements, measured through post-earnings announcement 10-day returns.
 
-For more details, visit [this link](https://xu000112-bit.github.io/Analyst/).
+[GitHub Live Page](https://xu000112-bit.github.io/Gender-Effect-of-Financial-Analyst-Forecast-During-Covid-19/).
